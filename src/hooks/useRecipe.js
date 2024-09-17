@@ -7,9 +7,9 @@ export const useRecipe = () => {
   const [error, setError] = useState(null);
 
   const handleSendMessage = async (message) => {
-    const apiKey = process.env.REACT_APP_OPENAI_API_KEY;
-    const model = process.env.REACT_APP_OPENAI_MODEL;
-    const apiUrl = process.env.REACT_APP_OPENAI_API_URL;
+    const apiKey = 0; //= process.env.REACT_APP_OPENAI_API_KEY;
+    const model = 0; //= process.env.REACT_APP_OPENAI_MODEL;
+    const apiUrl = 0; //= process.env.REACT_APP_OPENAI_API_URL;
 
     const requestBody = {
       model: model,
@@ -24,7 +24,7 @@ export const useRecipe = () => {
           content: message,
         },
       ],
-      max_tokens: 150,
+      max_tokens: 1500000000,
       temperature: 0.7,
     };
 

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Culinary-Mate/static/css/main.04524c60.css",
-    "main.js": "/Culinary-Mate/static/js/main.601e2995.js",
+    "main.js": "/Culinary-Mate/static/js/main.3ef4447c.js",
     "static/js/952.562f4b4b.chunk.js": "/Culinary-Mate/static/js/952.562f4b4b.chunk.js",
     "static/js/453.e903b789.chunk.js": "/Culinary-Mate/static/js/453.e903b789.chunk.js",
     "index.html": "/Culinary-Mate/index.html",
     "main.04524c60.css.map": "/Culinary-Mate/static/css/main.04524c60.css.map",
-    "main.601e2995.js.map": "/Culinary-Mate/static/js/main.601e2995.js.map",
+    "main.3ef4447c.js.map": "/Culinary-Mate/static/js/main.3ef4447c.js.map",
     "952.562f4b4b.chunk.js.map": "/Culinary-Mate/static/js/952.562f4b4b.chunk.js.map",
     "453.e903b789.chunk.js.map": "/Culinary-Mate/static/js/453.e903b789.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.04524c60.css",
-    "static/js/main.601e2995.js"
+    "static/js/main.3ef4447c.js"
   ]
 }
